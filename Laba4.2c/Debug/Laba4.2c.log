@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Laba4.2c.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source4.2c.cpp
+  Laba4.2c.vcxproj -> D:\Visual Studio\System Programming\Laba4\Debug\Lab4.2c.exe
+  Laba4.2c.vcxproj -> D:\Visual Studio\System Programming\Laba4\Debug\Lab4.2c.pdb (Full PDB)
